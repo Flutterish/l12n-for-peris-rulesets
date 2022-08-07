@@ -1,0 +1,20 @@
+{
+  "iso": "ru",
+  "data": {
+    "action.center": "В центр",
+    "action.left": "Влево",
+    "action.right": "Вправо",
+    "judgement.great": "Хорошо",
+    "judgement.miss": "Corrupt",
+    "judgement.ok": "Ок",
+    "judgement.perfect": "Идеально",
+    "mod.autoplay": "Autoplay",
+    "mod.autoplay-description": "Славный бот сдел… постой, куда он ушёл?",
+    "mod.no-fail": "No Fail",
+    "mod.no-fail-description": "Протокол TCP на максималках",
+    "stats.beats": "Громкие биты",
+    "stats.multi-streams": "Мультистримы",
+    "stats.packets": "Пакеты",
+    "stats.streams": "Стримы"
+  }
+}
