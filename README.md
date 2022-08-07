@@ -1,5 +1,6 @@
 Localisation for all of my rulesets
 
+## How to contribute?
 There are 2 programs you will need to translate this project:
 * Git (if you know how to use it) or Github Desktop
 * [o!f-l12n (Localisation generator for osu!framework)](https://github.com/Flutterish/l12n-generator-for-osu-framework/releases)
