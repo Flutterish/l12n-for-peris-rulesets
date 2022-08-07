@@ -1,0 +1,16 @@
+{
+  "iso": "ru",
+  "data": {
+    "judgement.great": "Хорошо",
+    "judgement.miss": "Corrupt",
+    "judgement.ok": "Ок",
+    "judgement.perfect": "Идеально",
+    "mod.autoplay": "Autoplay",
+    "mod.autoplay-description": "Славный бот сдел… постой, куда он ушёл?",
+    "mod.no-fail": "No Fail",
+    "mod.no-fail-description": "Протокол TCP на максималках",
+    "setting.action.center": "В центр",
+    "setting.action.left": "Влево",
+    "setting.action.right": "Вправо"
+  }
+}
