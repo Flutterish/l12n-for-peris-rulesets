@@ -1,6 +1,9 @@
 {
   "iso": "en",
   "data": {
+    "action.center": "Center",
+    "action.left": "Left",
+    "action.right": "Right",
     "judgement.great": "Nice",
     "judgement.miss": "Corrupt",
     "judgement.ok": "Ok",
@@ -9,8 +12,9 @@
     "mod.autoplay-description": "Let the cute bot do... wait, where did he go?",
     "mod.no-fail": "No Fail",
     "mod.no-fail-description": "TCP at it's finest",
-    "setting.action.center": "Center",
-    "setting.action.left": "Left",
-    "setting.action.right": "Right"
+    "stats.beats": "Head Beats",
+    "stats.multi-streams": "Multi-Streams",
+    "stats.packets": "Packets",
+    "stats.streams": "Streams"
   }
 }
