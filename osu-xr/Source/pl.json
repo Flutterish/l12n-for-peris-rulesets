@@ -35,7 +35,7 @@
     "config.presets.builtin.touchscreen-big": "Duży Ekran Dotykowy",
     "config.presets.builtin.touchscreen-small": "Mały Ekran Dotykowy",
     "config.presets.header": "Presety",
-    "config.presets.load-header": "Wczytywania",
+    "config.presets.load-header": "Wczytywanie",
     "config.presets.manage-header": "Zarządzanie",
     "config.presets.manage.new": "Stwórz nowy preset",
     "config.presets.manage.new-name": "Nowy Preset",
